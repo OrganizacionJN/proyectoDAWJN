@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.navegacion{
+    background: cornflowerblue;
+    border: 5px solid #ffffff ;
+}
+
+.jumbotron{
+    background: coral;
+    border: 5px solid #ffffff ;
+}
+
+.seccion{
+    background: blueviolet;
+    border: 50px solid #ffffff;
+}
+
+.articulo{
+    background: limegreen;
+    border: 5px solid #ffffff ;
+}
+
+.paginacion{
+    background: #ffff00;
+}
+
+.aside{
+    background: red;
+    height: 150px;
+}
+
+footer{
+    background: grey;
+    border: 5px solid #ffffff ;
+}
